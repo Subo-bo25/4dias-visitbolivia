@@ -3,7 +3,7 @@
 import { useState } from 'react';
 
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://backend-visitbolivia.onrender.com'
+  ? 'https://backend-visitbolivia-k0o6.onrender.com'
   : 'http://localhost:8000';
 
 export default function TestPage() {

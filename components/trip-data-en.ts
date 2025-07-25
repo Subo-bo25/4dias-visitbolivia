@@ -20,7 +20,7 @@
 
 // API Configuration
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://backend-visitbolivia.onrender.com' // Production backend on Render
+  ? 'https://backend-visitbolivia-k0o6.onrender.com' // Production backend on Render
   : 'http://localhost:8000';
 
 // Types for API responses
